@@ -57,6 +57,7 @@ var replaceOptions = {
                     return content;
                 }
             }
+            // TODO: add the border-box hide/show logic
         ]
     }
 };
